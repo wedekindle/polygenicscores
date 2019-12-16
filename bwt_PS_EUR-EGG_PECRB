@@ -1,8 +1,8 @@
-libname gwas "\\dktgenna1.niddk.nih.gov\groupcollaboration\genstatgroup\Lauren_W\birthweight\bwt_GWAS\PECRB_EGG_bwtGWAS_noGAadj_compare";
-libname pecrb "\\dktgenna1.niddk.nih.gov\groupcollaboration\genstatgroup\Lauren_W\birthweight\bwt_GWAS\bwt_noGAadj_GWAS";
-libname ps "\\dktgenna1.niddk.nih.gov\groupcollaboration\genstatgroup\Lauren_W\birthweight\bwt_PS";
-libname pscopy "\\dktgenna1.niddk.nih.gov\groupcollaboration\genstatgroup\Lauren_W\birthweight\bwt_PS\";
-libname impgric '\\dktgenna1.niddk.nih.gov\GroupCollaboration\GenStatGroup\Pimachip_imputed_GRIC';
+libname gwas "LOCATION_OF_EGG_EUR_DATA";
+libname pecrb "LOCATION_OF_PECRB_DATA";
+libname ps "LOCATION_OF_ORIGINAL_DATASETS";
+libname pscopy "LOCATION_OF_COPIES_OF_DATASETS";
+libname impgric "LOCATION_OF_IMPUTED_GENOTYPES";
 
 /* SECTION 1: IMPORT BWT GWAS SUMSTATS*/
 
