@@ -1,7 +1,7 @@
-libname impres  "\\dktgenna1.niddk.nih.gov\markers\Results_imputed_GRIC";
-libname PS "\\dktgenna1.niddk.nih.gov\userhome\wedekindle\T2D_PS";
-libname jdata "\\dktgenna1.niddk.nih.gov\markers\DATA\pimachip_imputed";
-libname imp "\\dktgenna1.niddk.nih.gov\GroupCollaboration\GenStatGroup\Pimachip_imputed_GRIC";
+libname impres  "LOCATION_OF_PECRB_SUMMARY_STATISTICS";
+libname PS "LOCATION_OF_PS_DATA";
+libname jdata "LOCATION_OF_PECRB_ANNOTATION_FILES";
+libname imp "LOCATION_OF_PECRB_IMPUTED_GENOTYPES";
 
 /*Append 'chr' prefix to allow the full genotypes file to merge with the 3 groups of PECRB GWAS summary statistics:
 7,996,323 variants in total*/
